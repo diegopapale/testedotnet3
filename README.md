@@ -32,5 +32,23 @@ Desenvolver um serviço que seja capaz de gerar um lançamento de horas.
 - Avaliaremos também sua postura, honestidade e a maneira que resolve problemas.
 
 #### Identificação:
-Nome: <br/>
-E-mail: 
+Nome: Diego Papale<br/>
+E-mail: diegopapale@hotmail.com
+
+#### Projeto Considerações Gerais:
+- Criei um modelo separado em camadas com 3 projetos, Data, Business e Service.
+- Este modelo trabalhando com Kernel, dispensa o uso de IIS para hospedar a API e torna-se multiplataforma.
+- Para uso basta criar um serviço no sistema operacional e identificar porta que vai ser usado no appsettings.json.
+
+#### Projeto Luby.Data:
+- Criado para gerenciar a regra de banco de dados do projeto em camada separada da regra de negócio e do serviço da API.
+- Foi criada uma classe para gerenciamento da conexão com o banco de dados.
+- Criada uma classe que contém os métodos de inserção e consulta.
+
+#### Projeto Luby.Business:
+- Regra de negócio do projeto, onde aloquei as models.
+- Vai servir para gerenciar validações e regras compartilhadas.
+
+#### Projeto Luby.Service:
+- É o projeto .net Core que faz o trabalho da API, usando Kernel como Self Host, dispensando uso do IIS.
+- Contém o Controller da Aplicação, com os métodos Post e Get.

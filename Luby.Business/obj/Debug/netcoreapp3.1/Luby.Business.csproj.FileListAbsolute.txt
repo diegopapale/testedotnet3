@@ -1,0 +1,8 @@
+C:\Users\Diego\source\repos\testedotnet3\Luby.Business\bin\Debug\netcoreapp3.1\Luby.Business.deps.json
+C:\Users\Diego\source\repos\testedotnet3\Luby.Business\bin\Debug\netcoreapp3.1\Luby.Business.dll
+C:\Users\Diego\source\repos\testedotnet3\Luby.Business\bin\Debug\netcoreapp3.1\Luby.Business.pdb
+C:\Users\Diego\source\repos\testedotnet3\Luby.Business\obj\Debug\netcoreapp3.1\Luby.Business.AssemblyInfoInputs.cache
+C:\Users\Diego\source\repos\testedotnet3\Luby.Business\obj\Debug\netcoreapp3.1\Luby.Business.AssemblyInfo.cs
+C:\Users\Diego\source\repos\testedotnet3\Luby.Business\obj\Debug\netcoreapp3.1\Luby.Business.csproj.CoreCompileInputs.cache
+C:\Users\Diego\source\repos\testedotnet3\Luby.Business\obj\Debug\netcoreapp3.1\Luby.Business.dll
+C:\Users\Diego\source\repos\testedotnet3\Luby.Business\obj\Debug\netcoreapp3.1\Luby.Business.pdb

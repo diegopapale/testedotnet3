@@ -1,0 +1,12 @@
+C:\Users\Diego\source\repos\testedotnet3\Luby.Data\bin\Debug\netcoreapp3.1\Luby.Data.deps.json
+C:\Users\Diego\source\repos\testedotnet3\Luby.Data\bin\Debug\netcoreapp3.1\Luby.Data.dll
+C:\Users\Diego\source\repos\testedotnet3\Luby.Data\bin\Debug\netcoreapp3.1\Luby.Data.pdb
+C:\Users\Diego\source\repos\testedotnet3\Luby.Data\bin\Debug\netcoreapp3.1\Luby.Business.dll
+C:\Users\Diego\source\repos\testedotnet3\Luby.Data\bin\Debug\netcoreapp3.1\Luby.Business.pdb
+C:\Users\Diego\source\repos\testedotnet3\Luby.Data\obj\Debug\netcoreapp3.1\Luby.Data.csprojAssemblyReference.cache
+C:\Users\Diego\source\repos\testedotnet3\Luby.Data\obj\Debug\netcoreapp3.1\Luby.Data.AssemblyInfoInputs.cache
+C:\Users\Diego\source\repos\testedotnet3\Luby.Data\obj\Debug\netcoreapp3.1\Luby.Data.AssemblyInfo.cs
+C:\Users\Diego\source\repos\testedotnet3\Luby.Data\obj\Debug\netcoreapp3.1\Luby.Data.csproj.CoreCompileInputs.cache
+C:\Users\Diego\source\repos\testedotnet3\Luby.Data\obj\Debug\netcoreapp3.1\Luby.Data.csproj.CopyComplete
+C:\Users\Diego\source\repos\testedotnet3\Luby.Data\obj\Debug\netcoreapp3.1\Luby.Data.dll
+C:\Users\Diego\source\repos\testedotnet3\Luby.Data\obj\Debug\netcoreapp3.1\Luby.Data.pdb
