@@ -37,7 +37,7 @@ E-mail: diegopapale@hotmail.com
 
 #### Projeto Considerações Gerais:
 - Criei um modelo separado em camadas com 3 projetos, Data, Business e Service.
-- Este modelo trabalhando com Kernel, dispensa o uso de IIS para hospedar a API e torna-se multiplataforma.
+- Este modelo trabalhando com Kestrel, dispensa o uso de IIS para hospedar a API e torna-se multiplataforma.
 - Para uso basta criar um serviço no sistema operacional e identificar porta que vai ser usado no appsettings.json.
 
 #### Projeto Luby.Data:
@@ -50,5 +50,5 @@ E-mail: diegopapale@hotmail.com
 - Vai servir para gerenciar validações e regras compartilhadas.
 
 #### Projeto Luby.Service:
-- É o projeto .net Core que faz o trabalho da API, usando Kernel como Self Host, dispensando uso do IIS.
+- É o projeto .net Core que faz o trabalho da API, usando Kestrel como Self Host, dispensando uso do IIS.
 - Contém o Controller da Aplicação, com os métodos Post e Get.
